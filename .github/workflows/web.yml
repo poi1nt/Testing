@@ -1,4 +1,4 @@
-name: 4.1_testing
+name: testing
 
 on: [push, pull_request]
 
